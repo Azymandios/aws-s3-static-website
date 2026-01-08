@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Christian Johnson | S3 Static Website</title>
+	</head>
+	<body>
+		<h1>Hello from AWS!</hi>
+		<p>This is my first cloud project.</p>
+		<p>- Christian Johnson</p>
+	</body>
+</html>
+
