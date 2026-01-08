@@ -2,6 +2,9 @@
 
 AWS S3 STATIC WEBSITE PROJECT
 
+Site:
+http://christian-johnson-s3-static-site.s3-website.us-east-2.amazonaws.com/
+
 Services Used:
 - Amazon S3
 - IAM
